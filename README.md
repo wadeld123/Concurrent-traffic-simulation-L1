@@ -1,5 +1,6 @@
 # Concurrent-traffic-simulation-L1（From Udacity）
-![Image](https://github.com/wadeld123/Concurrent-traffic-simulation-L1/raw/master/Image.png) 
+![Image](https://github.com/wadeld123/Concurrent-traffic-simulation-L1/raw/master/Image.png)
+![Image](https://github.com/wadeld123/Concurrent-traffic-simulation-L1/raw/master/L1_Project/Image.png) 
 # Project Tasks
 
     Task L1.1 : In the base class TrafficObject, set up a thread barrier in its destructor that ensures that all the thread objects in the member vector_threads are joined.
